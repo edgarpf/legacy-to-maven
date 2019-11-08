@@ -21,7 +21,7 @@ One of them will be a script to upload all the jars in the project to Nexus. The
 
 The other one will be a .xml file with Maven dependecies. You can put its content in a pom.xml file. 
 
-## How do I use the script.
+## How do I use the script?
 
 1 - Put the script in the root of your project. 
 
